@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+
+.env
+.env.local
+.env.*.local
+
+
+__pycache__/
+
+*.txt
